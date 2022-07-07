@@ -25,8 +25,7 @@
 <br><br><br>
     
 <div align="center">
-    <a href="mailto:info@darkfollow.ir" title="Gmail"><img alt="Gmail" src="https://img.shields.io/badge/-Email-252932?labelColor=4C8EDA&style=flat&logoColor=20232A"></a>
-    <a href="https://t.me/darkfollowpanel" title="Telegram"><img alt="Telegram Chane" src="https://img.shields.io/badge/-Telegram-252932?labelColor=4C8EDA&style=flat&logoColor=20232A"></a>
-    <a href="https://darkfollow.ir" title="darkfollow"><img alt="website" src="https://img.shields.io/badge/-Website-252932?labelColor=4C8EDA&style=flat&logo=none&logoColor=20232A"></a>
-
+    <a href="mailto:info@darkfollow.ir" title="Gmail"><img alt="Gmail" src="https://img.shields.io/badge/-Email-252932?style=flat"></a>
+    <a href="https://t.me/darkfollowpanel" title="Telegram"><img alt="Telegram Chane" src="https://img.shields.io/badge/-Telegram-252932?style=flat"></a>
+    <a href="https://darkfollow.ir" title="darkfollow"><img alt="website" src="https://img.shields.io/badge/-Website-252932?style=flat"></a>
 </div>
