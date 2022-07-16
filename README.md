@@ -1,6 +1,6 @@
 <div align="center">
     <h1><a href="https://darkfollow.ir/" target="_blanck">Dark Follow (:</a></h1>
-    <p>Social network services <a href="https://instagram.com">Instagram</a>, <a href="https://telegram.org">Telegram</a>, <a href="https://youtube.com">YouTube</a>, <a href="https://twitter.com">Twitter</a>,...</p>
+    <p>📢 Social network services <a href="https://instagram.com">Instagram</a>, <a href="https://telegram.org">Telegram</a>, <a href="https://youtube.com">YouTube</a>, <a href="https://twitter.com">Twitter</a>,... </p> 
 </div>
 
 <br>
